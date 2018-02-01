@@ -1,2 +1,2 @@
-# iot
-Iot initial project
+# iot    ![iot](https://342sv54cwf1w32bxz36tm0bv-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/How-The-Internet-of-Things-will-Complicate-Incident-Response.png)
+The Internet of things is the network of physical devices, vehicles, home appliances and other items embedded with electronics, software, sensors, actuators, and network connectivity which enables these objects to connect and exchange data.
